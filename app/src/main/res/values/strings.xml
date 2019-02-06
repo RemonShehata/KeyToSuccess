@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Key To Success</string>
+
+    <string name="question">
+    Parmi les piliers du plan de santé 2025, on trouve :
+    </string>
+
+    <string name="answer_1">
+        Améliorer la gouvernance et optimiser l’allocation et l’utilisation des ressources
+    </string>
+
+    <string name="answer_2">
+        Lancer de nouveaux programmes et stratégies sanitaires
+    </string>
+
+    <string name="answer_3">
+        Organiser l’offre de soins national
+    </string>
+
+    <string name="answer_4">
+        Renforcer l’encadrement législatif et réglementaire du secteur de la santé
+    </string>
+
+</resources>
